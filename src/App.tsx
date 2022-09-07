@@ -55,7 +55,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Products</h1>
+      <h1>Products~</h1>
       <button onClick={handleMutate}>Update</button>
       {/* <ul>
         {data.products.map((item) => {
